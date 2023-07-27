@@ -1,7 +1,7 @@
 ---
 - title: PacificVis (TVCG Track)
   year: 2024
-  id: pacificvis2024
+  id: pacificvis2024_tvcg
   link: https://pacificvis.github.io/pvis2024/
   deadline: '2023-10-01 23:59:00'
   timezone: UTC-12
@@ -15,7 +15,7 @@
 
 - title: PacificVis (Conference Track)
   year: 2024
-  id: pacificvis2024
+  id: pacificvis2024_conf
   link: https://pacificvis.github.io/pvis2024/
   deadline: '2023-11-22 23:59:00'
   timezone: UTC-12
@@ -159,7 +159,7 @@
 
 - title: ICDE (Industrial & Application Track)
   year: 2024
-  id: icde24_research
+  id: icde24_industry
   link: https://icde2024.github.io/
   deadline: '2023-10-22 23:59:00'
   timezone: UTC-12
@@ -207,7 +207,7 @@
 
 - title: SIGMOD (October cycle)
   year: 2024
-  id: sigmod24_4
+  id: sigmod24_10
   link: http://2024.sigmod.org/
   deadline: '2023-10-15 23:59:00'
   timezone: UTC-7
