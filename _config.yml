@@ -1,11 +1,10 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: VIS Conference Deadlines
+description: Countdowns to top VIS-related conference deadlines
+author: 
 
-domain: "aideadlin.es"
+domain: "visdeadlin.es"
 baseurl: ""
 
-twitter_hashtag: machinelearning
 github_username: paperswithcode
 github_repo: ai-deadlines
 
